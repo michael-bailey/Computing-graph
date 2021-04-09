@@ -7,8 +7,11 @@
         "id": "b25827c9368e0412",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Languages/Rust.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Languages/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "b25827c9368e0412",
   "lastOpenFiles": [
+    "Programming/Languages/Rust.md",
+    "Programming/Languages/Jsx.md",
+    "Programming/Languages/Untitled.md",
     "Programming/Concepts/MultiProcessing.md",
     "Programming/Design Patterns/Event Loop.md",
     "Programming/Languages/Typescript.md",
     "Programming/Languages/Javascript.md",
     "Programming/Design Patterns/Untitled.md",
     "Programming/Concepts/Threading.md",
-    "Programming/Concepts/Untitled.md",
-    "Programming/Untitled.md",
-    "Programming/Languages/Untitled.md",
-    "Programming/Languages/Flow.md"
+    "Programming/Concepts/Untitled.md"
   ]
 }
