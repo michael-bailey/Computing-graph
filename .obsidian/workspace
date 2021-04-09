@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0c17baf205fb5e",
+        "id": "b25827c9368e0412",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -81,17 +81,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9f0c17baf205fb5e",
+  "active": "b25827c9368e0412",
   "lastOpenFiles": [
-    "Programming/Design Patterns/Untitled.md",
-    "Programming/Languages/Javascript.md",
     "Programming/Concepts/MultiProcessing.md",
+    "Programming/Design Patterns/Event Loop.md",
+    "Programming/Languages/Typescript.md",
+    "Programming/Languages/Javascript.md",
+    "Programming/Design Patterns/Untitled.md",
     "Programming/Concepts/Threading.md",
     "Programming/Concepts/Untitled.md",
     "Programming/Untitled.md",
     "Programming/Languages/Untitled.md",
-    "Programming/Languages/Flow.md",
-    "Programming/Languages/Jsx.md",
-    "Programming/Frameworks/Untitled.md"
+    "Programming/Languages/Flow.md"
   ]
 }
