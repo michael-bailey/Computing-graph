@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "4b19773cb25c4063",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f0c17baf205fb5e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5fc43390f81493f",
+    "type": "split",
+    "children": [
+      {
+        "id": "52fc8dd48dbce3e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b766d52fab6484d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bdb77b36a69e56dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c7c05a4d5933662",
+    "type": "split",
+    "children": [
+      {
+        "id": "87aa2fc107c5f34b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d17a0a1acd8eb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9f0c17baf205fb5e",
+  "lastOpenFiles": [
+    "Programming/Design Patterns/Untitled.md",
+    "Programming/Languages/Javascript.md",
+    "Programming/Concepts/MultiProcessing.md",
+    "Programming/Concepts/Threading.md",
+    "Programming/Concepts/Untitled.md",
+    "Programming/Untitled.md",
+    "Programming/Languages/Untitled.md",
+    "Programming/Languages/Flow.md",
+    "Programming/Languages/Jsx.md",
+    "Programming/Frameworks/Untitled.md"
+  ]
+}
